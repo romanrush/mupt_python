@@ -1,2 +1,2 @@
-# mupt_python
+# mipt_python
 ererwrew
