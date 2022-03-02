@@ -1,2 +1,2 @@
 # mipt_python
-ДЗ Python МФТИ
+Homework Python MIPT
